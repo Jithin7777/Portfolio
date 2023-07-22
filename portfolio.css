@@ -223,7 +223,7 @@ footer{
 
 
   @media  (max-width: 768px) {
-    img {
+    .img1 {
       margin-top: 25px;
     
     }
