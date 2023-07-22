@@ -205,4 +205,26 @@ footer{
     background-color: rgba(0, 0, 0, 0.591);
     padding-bottom: 8px;
 }
+@media(max-width:768px){
+    .first>h1,h3,p,  .social-media,a{
+       text-align: center;
+      
+      /* justify-content: center; */
+    }
+}
 
+@media  (max-width: 768px) {
+    .third {
+      display: flex;
+      justify-content: center;
+    
+    }
+  }
+
+
+  @media  (max-width: 768px) {
+    img {
+      margin-top: 25px;
+    
+    }
+  }
