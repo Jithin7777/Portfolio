@@ -107,6 +107,8 @@ body{
 .img1{
     box-shadow: 1px 2px 6px 3px #0a9cdb;
         animation: slideInFromLeft 3s;
+        transition: all .5s ease-in-out;
+
 
 }
 .img1:hover{
