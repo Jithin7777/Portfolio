@@ -155,7 +155,7 @@ a {
 }  
 
 @media(max-width:770px){
-  .first>p{
+  .home-content>p{
     
     font-size: 14px;
   
