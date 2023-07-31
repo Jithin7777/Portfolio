@@ -154,7 +154,7 @@ a {
     } 
 }  
 
-@media(max-width:768px){
+@media(max-width:770px){
   .first>p{
     
     font-size: 14px;
@@ -162,7 +162,7 @@ a {
     } 
 }  
 
-@media(max-width:768px){
+@media(max-width:771px){
   .first>.social-media{
     
     font-size: 7px;
