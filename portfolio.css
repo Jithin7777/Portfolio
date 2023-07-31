@@ -270,4 +270,39 @@ footer{
 }
 
 
+@media(max-width:768px){
+    .first>h1,h3,a{
+       /* text-align: center; */
+      font-size: 27px;
+      /* justify-content: center; */
+      } 
+}  
+
+@media(max-width:768px){
+  .first>h3{
+    
+    font-size: 21px;
+  
+    } 
+}  
+
+@media(max-width:768px){
+  .first>p{
+    
+    font-size: 14px;
+  
+    } 
+}  
+
+@media(max-width:768px){
+  .first>.social-media{
+    
+    font-size: 7px;
+  
+    } 
+}  
+
+
+
+
 
