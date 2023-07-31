@@ -147,7 +147,7 @@ a {
 }  
 
 @media(max-width:768px){
-  .first>h3{
+  .home-content>h3{
     
     font-size: 21px;
   
