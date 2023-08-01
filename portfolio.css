@@ -141,7 +141,7 @@ a {
 @media(max-width:768px){
     .first>h1{
        /* text-align: center; */
-      font-size: 31px;
+      font-size: 35px;
       /* justify-content: center; */
       } 
 }  
@@ -149,7 +149,7 @@ a {
 @media(max-width:769px){
   .home-content>h3{
     
-    font-size: 25px;
+    font-size: 30px;
   
     } 
 }  
