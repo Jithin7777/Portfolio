@@ -146,13 +146,13 @@ a {
       } 
 }  
  */
-/* @media(max-width:769px){
+@media(max-width:769px){
   .home-content>h3{
     
-    font-size: 30px;
+    font-size: 27px;
   
     } 
-}   */
+}  
 
 @media(max-width:767px){
   .home-content>p{
